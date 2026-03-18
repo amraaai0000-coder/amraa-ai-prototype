@@ -1,0 +1,4 @@
+Founder: Saurav Goswami
+Age: 19
+Role: Solo Developer
+Startup: Amraa AI (Early-stage)

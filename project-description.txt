@@ -1,0 +1,7 @@
+MedhaXPT is an AI assistant developed under Amraa AI by Saurav Goswami.
+
+This prototype demonstrates a conversational AI system capable of answering queries and generating images.
+
+The system is built using integrated and fine-tuned small AI models and is currently in its early stage.
+
+Future development will focus on domain-specific intelligence and scalable AI systems.

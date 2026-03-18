@@ -1,0 +1,4 @@
+Stage 1: General AI Prototype ✅
+Stage 2: Domain-Specific AI (Frontend Dev)
+Stage 3: Advanced Reasoning + Multi-feature AI
+Stage 4: Full Product Launch (App + Web)

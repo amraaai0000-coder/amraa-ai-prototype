@@ -1,0 +1,1 @@
+User Input → Frontend UI → Backend Processing → AI Model → Response Generation → Output Display
