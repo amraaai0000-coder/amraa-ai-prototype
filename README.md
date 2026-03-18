@@ -1,7 +1,6 @@
 # MedhaXPT AI 🤖
 
-MedhaXPT is an general Ai assistant developed under Amraa AI, designed to provide intelligent conversational responses and evolve into a scalable domain-specific AI system.
-
+MedhaXPT is an Independent multimodal AI prototype focused on practical intelligent interaction, analytical response capability, and future domain-specific technical assistance infrastructure. need money for small infra and compute. 
 ## 🚀 Features
 - Chat-based AI responses
 - Image generation capability
