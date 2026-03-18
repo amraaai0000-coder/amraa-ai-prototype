@@ -5,10 +5,10 @@ MedhaXPT is an AI assistant developed under Amraa AI by Saurav Goswami.
 ## 🚀 Features
 - Chat-based AI responses
 - Image generation capability
-- Simple and clean UI
+-  good and clean UI
 
 ## 🎥 Demo Video
-(Add your YouTube link here)
+https://youtube.com/shorts/AwTnF8Inu1o?si=lg2so0XF3dSbpTkC
 
 ## 📸 Screenshots
 See /screenshots folder
