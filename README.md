@@ -1,3 +1,5 @@
+Current prototype demonstrates deployed multimodal AI behavior with future roadmap toward specialized foundational systems.
+
 # MedhaXPT AI 🤖
 
 MedhaXPT is an Independent multimodal AI prototype focused on practical intelligent interaction, analytical response capability, and future domain-specific technical assistance infrastructure. need money for small infra and compute. 
